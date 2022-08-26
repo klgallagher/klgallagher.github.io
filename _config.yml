@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &klgallagherphd
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Katherine L. Gallagher"
   avatar           : "profile.png"
-  bio              : "Oceanographer interested in how biophysical coupling impacts marine ecology and biogeography"
+  bio              : "Biological oceanographer interested in how ocean movements impact marine ecology and biogeography"
   location         : "Stony Brook University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

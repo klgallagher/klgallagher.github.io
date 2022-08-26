@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Katherine L. Gallagher - About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

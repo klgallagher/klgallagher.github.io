@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Consider this page the "sparknotes" version of my CV. Please see my [complete CV]([KLG_CV_2022.pdf](https://github.com/klgallagher/klgallagher.github.io/files/9473340/KLG_CV_2022.pdf)
-) for more details
+Consider this page the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/9473340/KLG_CV_2022.pdf)
+ for more details
 
 Education
 ======
@@ -58,3 +58,12 @@ Service and leadership
   * Organized college-wide virtual graduate student research symposium in 2021
 * Society for Women in Marine Sciences (2018 - present)
   * Co-chair of University of Delaware Chapter from 2018 - 2020
+
+Skills
+======
+* Data analysis in: 
+  * R (adept)
+  * MATLAB (familiar)
+* Deploying Regional Ocean Modeling System (ROMS) simulations and analyzing results
+* Knowledgable about Slocum gliders and familiar with similar autonomous systems
+* Analyzing oceanographic data and large data sets in R 

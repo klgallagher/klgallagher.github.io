@@ -18,7 +18,7 @@ Education
   * Dissertation Title: A Potential Mechanism Sustaining the Biological Hotspot around Palmer Deep Canyon
   * Dissertation Advisor: Dr. Matthew J. Oliver 
 
-* B.S. in Marine Biology, magna cum laude, Northeastern University, 2017
+* B.S. in Marine Biology, _magna cum laude_, Northeastern University, 2017
   * Alumna of Northeastern University's Three Seas Program (2014-2015) 
 
 Research experience

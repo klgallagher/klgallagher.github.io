@@ -9,51 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+Consider this page the "sparknotes" version of my CV. Please see my [complete CV](../main/files/KLG_CV_2022.pdf) for more details
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Oceanography, University of Delaware, 2022
+  * Dissertation Title: A Potential Mechanism Sustaining the Biological Hotspot around Palmer Deep Canyon
+  * Dissertation Advisor: Dr. Matthew J. Oliver 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* B.S. in Marine Biology, magna cum laude, Northeastern University, 2017
+  * Alumna of Northeastern University's Three Seas Program (2014-2015) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Research Fellow, Stony Brook University 
+  * February 2022 - February 2024
+  * Supervisor: Dr. Heather Lynch
+  * Funded by the NSF Office of Polar Programs Postdoctoral Research Fellowship Program 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Graduate Fellow/Assistant, University of Delaware
+  * June 2017 - February 2022
+  * Supervisor: Dr. Matthew J. Oliver
+  * Funded in part by the University of Delaware Doctoral Fellowship (2020-2021) and the Patricia and Charles Robertson Graduate Fellowship 
+
+* Research Assistant, Northeastern University 
+  * September 2013 - April 2014 and January 2016 - May 2017
+  * Conducted honors thesis project in Patterson Lab from 2016-2017
+    * Honors Thesis project funded in part by the Beta Beta Beta Biological Honors Society Research Award and the Northeastern University Provost's Advanced Research/Creative Endeavor Award
+  * Volunteered in Bracken & Hughes-Kimbro Labs in 2013-2014 academic year
+
+* Research Experience for Undergraduates (REU) student, Bermuda Institute for Ocean Sciences
+  * August - December 2016
+  * Funded in part by the Northeastern University Presidential Global Scholarship
+
+* Research Assistant, Woods Hole Oceanographic Institute
+  * June 2015 - January 2016
+  * Environmental Sample Processor (ESP) Lab, Anderson Lab       
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Instructor for High School Women in Science and Engineering (WISE) program at Stony Brook University (2022-2023 academic year)
+* College of Earth, Ocean, and Environment Empathic Peers Offering Wisdom, Encouragement, and Resources (EmPOWER)
+  * Inaugural Steering Committee Chair (2020 - 2021) 
+  * Lead Mentor and Peer Mentor for School of Marine Science and Policy, Lewes Campus (2020 - 2021)
+* College of Earth, Ocean, and Environment Lewes Graduate Student Association (2017 - 2022) 
+  * Co-chair from 2020 - 2021
+  * Organized college-wide virtual graduate student research symposium in 2021
+* Society for Women in Marine Sciences (2018 - present)
+  * Co-chair of University of Delaware Chapter from 2018 - 2020

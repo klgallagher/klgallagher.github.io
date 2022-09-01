@@ -12,5 +12,5 @@ Hello! My name is Katherine (Hudson) Gallagher. I am currently an NSF Office of 
 
 This website is currently underconstruction so apologies for the mess. Please check in again in the future! 
 
-#Contact Information
-The best way to reach me is via email at katherine.l.hudson@stonybrook.edu. 
+###### Contact Information
+The best way to reach me is via email at katherine.l.hudson@stonybrook.edu. I look forward to hearing from you!

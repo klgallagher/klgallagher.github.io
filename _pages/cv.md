@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Consider this page the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/KLG_CV_2022.pdf)
- for more details
+This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/9569686/KLG_CV_2022.pdf)
+for more details. 
 
 Education
 ======

@@ -16,7 +16,7 @@ For my postdoc, I am studying how penguin colony size, reproductive success, and
 ## Previous Projects
 
 #### Project SWARM 
-Project SWARM was an interdisciplinary, collaborative effort between the University of Delaware, Rutgers University, Old Dominion University, University of Alaska Fairbanks, Oregon State University, and the Palmer Station Long Term Ecological Research Program team to determine the physical drivers of an Antarctic biological hotspot, located at Palmer Deep Canyon. As part of my dissertation, I analyzed data from autonomous underwater gliders, acoustic moorings, and the ROMS model to describe a potential mechanism driving the biological hotspot. This project was funded by NSF. 
+Project SWARM was an interdisciplinary, collaborative effort between the University of Delaware, Rutgers University, Old Dominion University, University of Alaska Fairbanks, Oregon State University, NOAA Antarctic Living Marine Resources (AMLR), and the Palmer Long Term Ecological Research (LTER) Program to determine the physical drivers of an Antarctic biological hotspot, located at Palmer Deep Canyon. As part of my dissertation, I analyzed data from autonomous underwater gliders, acoustic moorings, and the ROMS model to describe a potential mechanism driving the biological hotspot. This project was funded by NSF. 
 
 #### Bioluminescence in Delaware Bay
-I participated in a research cruise and glider deployments outside of Delaware Bay examining the distributions of bioluminescent organisms on the continental shelf. 
+I participated in a research cruise and glider deployments outside of Delaware Bay examining the distributions of bioluminescent organisms on the continental shelf. This work was done in collaboration with the Office of Naval Research (ONR). 

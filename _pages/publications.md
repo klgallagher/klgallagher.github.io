@@ -9,7 +9,7 @@ author_profile: true
 
 Below, you will find citations for all my peer-reviewed publications. Links are included for open-access papers and PDF downloads are available for papers that are not open access. If you have any trouble accessing any of my papers, please get in touch! I am always happy to provide copies. 
 
-_Note: papers published describing work done prior to 2022 were published under my maiden name (Hudson)_
+_Note: papers describing work done prior to 2022 were published under my maiden name (Hudson)_
 
 ## Antarctica
 

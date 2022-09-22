@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/9569686/KLG_CV_2022.pdf)
-for more details. 
+This page is the "sparknotes" version of my CV. Please see my [complete CV][KLG_CV_2022.pdf](https://github.com/klgallagher/klgallagher.github.io/files/9628579/KLG_CV_2022.pdf) for more details. 
 
 Education
 ======
@@ -67,3 +66,9 @@ Skills
 * Deploying Regional Ocean Modeling System (ROMS) simulations and analyzing results
 * Knowledgable about Slocum gliders and familiar with similar autonomous systems
 * Analyzing oceanographic data and large data sets in R 
+
+Additional Coursework
+======
+* AGU Leadership Academy and Network for Diversity and Inclusion in the Geosciences (LANDInG) (2022-2023)
+* Scientists Teaching Science (Summer 2022)
+

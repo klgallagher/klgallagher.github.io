@@ -13,6 +13,8 @@ _Note: papers describing work done prior to 2022 were published under my maiden 
 
 ## Antarctica
 
+**Hudson, K.**, Oliver, M. J., Kohut, J., Dinniman, M., Klinck, J., Cimino, M. A., Bernard, K., Statscewich H., Fraser W. ([in press] (https://doi.org/10.3354/meps14211)). A subsurface eddy associated with a submarine canyon increases availability and delivery of simulated Antarctic krill to penguin foraging regions. Marine Ecology Progress Series. DOI: 10.3354/meps14211. 
+
 **Hudson, K.**, Oliver, M. J., Kohut, J., Cohen, J. H., Dinniman, M., Klinck, J., Statscewich, H., Bernard, K., Fraser, W. ([2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017482)). Subsurface Eddy Facilitates Retention of Simulated Diel Vertical Migrators in a Biological Hotspot. Journal of Geophysical Research: Ocean, 127, 5. DOI: 10.1029/2021JC017482
 
 **Hudson, K.**, Oliver, M. J., Kohut, J., Dinniman, M., Klinck, J., Moffat, C., Statscewich, H., Bernard, K., Fraser, W. ([2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017304)). A Recirculating Eddy Promotes Subsurface Particle Retention in an Antarctic Biological Hotspot. Journal of Geophysical Research: Oceans, 126, e2021JC017304. DOI: 10.1029/2021JC017304

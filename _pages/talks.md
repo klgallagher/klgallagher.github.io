@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 ## Upcoming Talks & Conferences
-I plan to present results from the first year of my NSF Postdoctoral Fellowship at the AGU Fall Meeting this December in Chicago! I currently plan to attend in person, so if you are also going to be in Chicago, let's chat! 
-
-I am also giving a colloquium in the Ecology and Evolution Department at Stony Brook University in mid-October! Colloquia are currently being held hybrid, so please reach out if you would like the zoom link! 
+I will be presenting results from the first year of my NSF Postdoctoral Fellowship at the AGU Fall Meeting this December in Chicago! I will giving an oral presentation in section B56B: Ecological Forecasting in the Earth System III Oral on Dec 16. I currently plan to attend in person, so if you are going to be in Chicago, let's chat! 
 
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 
@@ -28,6 +26,7 @@ My work has been presented, by myself and others, at the following scientific co
   - 2017: Results from honors thesis on internal wave dynamics (in person poster) 
 
 ### Regional Meetings, Workshops, & Symposia: 
+- Ecology & Evolution Department Colloquia, October 2022 (hybrid talk)
 - Integrating Climate and Ecosystem Dynamics (ICED) Krill Modeling workshop, May 2021 (virtual talk)
 - University of Delaware Graduate Student Government 10th Annual Graduate Student Forum, April 2021 (virtual talk)
 - West Antarctic Peninsula Science Extravaganza, January 2021 (virtual talk)

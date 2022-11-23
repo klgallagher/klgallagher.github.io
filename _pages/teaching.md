@@ -7,9 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-I currently serve as an Instructor/Mentor for the Women in Science and Engineering (WISE) high school program for the 2022-23 academic year at Stony Brook University. As part of this position, I am designing and teaching a curricula about biological and physical oceanography to high school girls and will be mentoring them through an independent research project. 
+## Teaching
 
-Over the past several years I have also led informal workshops and have mentored students in data analysis using R. I have also informally mentored graduate students in my lab groups and formally mentored first year graduate students at the University of Delaware through the EmPOWER (Empathic Peers Offering Wisdom, Encouragement, and Resources) program. 
+I currently serve as an Instructor/Mentor for the Women in Science and Engineering (WISE) high school program for the 2022-23 academic year at Stony Brook University. As part of this position, I am designing and teaching a curricula about biological and physical oceanography to high school girls and will be mentoring them through an independent research project. Over the past several years, I have also led informal workshops in data analysis using R. 
+
+## Mentoring
+
+### Current Mentees: 
+- Beatrice Wicker, Stony Brook University undergraduate (2022 - present)
+- Tej Parekh, high school student (2022 - present)
+
+### Previous Mentees:
+I have also informally mentored graduate students in my lab group and formally mentored first year graduate students at the University of Delaware through the EmPOWER (Empathic Peers Offering Wisdom, Encouragement, and Resources) program. 
 
 ## Outreach
 In my opinion, outreach is a critical (and the funnest!) part of being a scientist! I love outreach and am constantly looking out for more outreach activities to engage all groups in my science. I am always happy to come speak to classrooms, clubs, etc. Please reach out if you are interested in having me speak to your group!

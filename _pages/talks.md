@@ -16,8 +16,8 @@ My work has been presented, by myself and others, at the following scientific co
   - 2022: Preliminary results from NSF Postdoctoral Fellowship (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (virtual poster)
 - American Geophysical Union (AGU) Fall Meeting 
-  - 2020: Modeled retention times within Palmer Deep Canyon (eLightning talk and virtual poster)
   - 2022: Relationships between krill hotspots and penguin biogeography (10 minute talk)
+  - 2020: Modeled retention times within Palmer Deep Canyon (eLightning talk and virtual poster)
 - Ocean Sciences
   - 2022: Retention of simulated vertical migrators in an Antarctic biological hotspot (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (in person talk, presented by Dr. John Klinck on my behalf) 

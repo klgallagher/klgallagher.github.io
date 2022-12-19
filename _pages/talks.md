@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Upcoming Talks & Conferences
-I will be presenting results from the first year of my NSF Postdoctoral Fellowship at the AGU Fall Meeting this December in Chicago! I will giving an oral presentation in section B56B: Ecological Forecasting in the Earth System III Oral on Dec 16. I currently plan to attend in person, so if you are going to be in Chicago, let's chat! 
+Check back in 2023 for upcoming presentations! 
 
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 
@@ -17,6 +17,7 @@ My work has been presented, by myself and others, at the following scientific co
   - 2020: Modeled retention times within Palmer Deep Canyon (virtual poster)
 - American Geophysical Union (AGU) Fall Meeting 
   - 2020: Modeled retention times within Palmer Deep Canyon (eLightning talk and virtual poster)
+  - 2022: Relationships between krill hotspots and penguin biogeography (10 minute talk)
 - Ocean Sciences
   - 2022: Retention of simulated vertical migrators in an Antarctic biological hotspot (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (in person talk, presented by Dr. John Klinck on my behalf) 

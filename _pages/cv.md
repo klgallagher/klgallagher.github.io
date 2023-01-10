@@ -50,14 +50,14 @@ Research experience
 Service and leadership
 ======
 * Instructor for High School Women in Science and Engineering (WISE) program at Stony Brook University (2022-2023 academic year)
+* Society for Women in Marine Sciences (2018 - present)
+  * Co-chair of University of Delaware Chapter from 2018 - 2020
 * College of Earth, Ocean, and Environment Empathic Peers Offering Wisdom, Encouragement, and Resources (EmPOWER)
   * Inaugural Steering Committee Chair (2020 - 2021) 
   * Lead Mentor and Peer Mentor for School of Marine Science and Policy, Lewes Campus (2020 - 2021)
 * College of Earth, Ocean, and Environment Lewes Graduate Student Association (2017 - 2022) 
   * Co-chair from 2020 - 2021
   * Organized college-wide virtual graduate student research symposium in 2021
-* Society for Women in Marine Sciences (2018 - present)
-  * Co-chair of University of Delaware Chapter from 2018 - 2020
 
 Skills
 ======
@@ -73,8 +73,3 @@ Additional Coursework
 * AGU Leadership Academy and Network for Diversity and Inclusion in the Geosciences (LANDInG) (2022-2023)
 * Scientists Teaching Science (Summer 2022)
 
-Organizations & Leadership Experience
-======
-* AGU Ocean Sciences Section
-* Society for Women in Marine Science (SWMS)
-  * Co-chair of University of Delaware chapter (2018 - 2020)

@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/10263402/KLG_CV_2022.pdf) for more details. 
+This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/10387411/KLG_CV_2023.pdf)
+ for more details. 
 
 Education
 ======
@@ -72,3 +73,8 @@ Additional Coursework
 * AGU Leadership Academy and Network for Diversity and Inclusion in the Geosciences (LANDInG) (2022-2023)
 * Scientists Teaching Science (Summer 2022)
 
+Organizations & Leadership Experience
+======
+* AGU Ocean Sciences Section
+* Society for Women in Marine Science (SWMS)
+  * Co-chair of University of Delaware chapter (2018 - 2020)

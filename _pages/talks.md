@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ## Upcoming Talks & Conferences
-Check back in 2023 for upcoming presentations! 
+Current planned conferences for 2023 include: 
+- US SCAR (online, June 2023)
+- Ecological Society of America (August 2023)
+- Southern Ocean Observing System conference (August 2023)
 
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 

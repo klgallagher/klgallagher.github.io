@@ -17,12 +17,16 @@ I have also taken courses on teaching, including Scientists Teaching Science in 
 
 ## Mentoring
 
-### Current Mentees: 
-- Beatrice Wicker, Stony Brook University undergraduate (2022 - present)
+### Current Research Mentees: 
+- One Stony Brook University undergraduate (hire TBD; Spring 2023)
 - Tej Parekh, high school student (2022 - present)
 
-### Previous Mentees:
-I have also informally mentored graduate students in my lab group and formally mentored first year graduate students at the University of Delaware through the EmPOWER (Empathic Peers Offering Wisdom, Encouragement, and Resources) program. 
+### Previous Research Mentees:
+- Beatrice Wicker, Stony Brook University undergraduate (Fall 2022)
+
+### Other Mentees
+- 2 undergraduates through Stony Brook University Society for Women in Marine Sciences (SWMS) mentoring program (Spring 2023)
+- 2 first year graduate student mentees in University of Delaware EmPOWER (Empathic Peers Offering Wisdom, Encouragement, and Resources) program (2020 - 2021 academic year) 
 
 ## Outreach
 In my opinion, outreach is a critical (and the funnest!) part of being a scientist! I love outreach and am constantly looking out for more outreach activities to engage all groups in my science. I am always happy to come speak to classrooms, clubs, etc. Please reach out if you are interested in having me speak to your group!

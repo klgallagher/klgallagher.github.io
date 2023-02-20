@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/10387411/KLG_CV_2023.pdf)
- for more details. 
+This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/10785661/KLG_CV_2023.pdf) for more details. 
 
 Education
 ======
@@ -70,6 +69,9 @@ Skills
 
 Additional Coursework
 ======
+* Inclusive STEM Teaching Project (Online in Spring 2023)
+* Foundations of Science Communication at the Alan Alda Center for Science Communication (Spring 2023)
+* Research Mentoring Workshop (Spring 2023)
 * AGU Leadership Academy and Network for Diversity and Inclusion in the Geosciences (LANDInG) (2022-2023)
 * Scientists Teaching Science (Summer 2022)
 

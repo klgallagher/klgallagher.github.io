@@ -7,7 +7,8 @@ author_profile: true
 
 ## Upcoming Talks & Conferences
 Current planned conferences for 2023 include: 
-- US SCAR (online, June 2023)
+- ASLO Aquatic Sciences Meeting (June 2023; my work to be presented by Dr. Matt Oliver)
+- US SCAR (June 2023)
 - Ecological Society of America (August 2023)
 - Southern Ocean Observing System conference (August 2023)
 

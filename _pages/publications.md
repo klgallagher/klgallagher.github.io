@@ -13,6 +13,8 @@ _Note: papers describing work done prior to 2022 were published under my maiden 
 
 ## Antarctica
 
+**Gallagher, K.L.,** Dinniman, M., Lynch, H.J. ([preprint](https://www.researchsquare.com/article/rs-2508180/v1)). Examining the Connectivity of Antarctic Krill on the West Antarctic Peninsula: Implications for _Pygoscelis_ Penguin Biogeography and Population Dynamics. _In Review at Scientific Reports_
+
 **Hudson, K.**, Oliver, M. J., Kohut, J., Dinniman, M., Klinck, J., Cimino, M. A., Bernard, K., Statscewich H., Fraser W. ([2022b](https://doi.org/10.3354/meps14211)). A subsurface eddy associated with a submarine canyon increases availability and delivery of simulated Antarctic krill to penguin foraging regions. Marine Ecology Progress Series. DOI: 10.3354/meps14211. 
 
 **Hudson, K.**, Oliver, M. J., Kohut, J., Cohen, J. H., Dinniman, M., Klinck, J., Statscewich, H., Bernard, K., Fraser, W. ([2022a](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017482)). Subsurface Eddy Facilitates Retention of Simulated Diel Vertical Migrators in a Biological Hotspot. Journal of Geophysical Research: Ocean, 127, 5. DOI: 10.1029/2021JC017482

@@ -13,10 +13,16 @@ Broadly, my research interests include the impacts of physical oceanography on s
 #### Penguin Response to Oceanographic Features
 For my postdoc, I am studying how penguin colony size, reproductive success, and location may be driven by oceanographic features such as high retention and or influx of simulated krill. I am using the Regional Ocean Modeling System (ROMS) to simulate the physical oceanography around the West Antarctic Peninsula. Within this model, I am simulated krill vertical migration behaviors to help understand krill distributions and how the retention and/or influx of simulated krill may be related to penguin colony metrics. I plan to utilize satellite-based penguin diet estimates to determine if penguins are utilizing the areas of modeled high retention and/or influx of simulated krill. This project is funded by the NSF Office of Polar Programs Postdoctoral Research Fellowship Program. 
 
+#### Krill Connectivity
+Using the data from my postdoc, I am examining the physical ocean features that drive krill population connectivity along the West Antarctic Peninsula. This work is currently in review at _Scientific Reports._ A preprint is available on my [publications page](https://klgallagher.github.io/publications/).
+
+#### Plastic Pollution 
+We are currently looking for potential sources and sinks of buoyant plastics along the peninsula. 
+
 ## Previous Projects
 
 #### Project SWARM 
-Project SWARM was an interdisciplinary, collaborative effort between the University of Delaware, Rutgers University, Old Dominion University, University of Alaska Fairbanks, Oregon State University, NOAA Antarctic Living Marine Resources (AMLR), and the Palmer Long Term Ecological Research (LTER) Program to determine the physical drivers of an Antarctic biological hotspot, located at Palmer Deep Canyon. As part of my dissertation, I analyzed data from autonomous underwater gliders, acoustic moorings, and the ROMS model to describe a potential mechanism driving the biological hotspot. This project was funded by NSF. 
+Project SWARM was an interdisciplinary, collaborative effort between the University of Delaware, Rutgers University, Old Dominion University, University of Alaska Fairbanks, Oregon State University, NOAA Antarctic Living Marine Resources (AMLR), and the Palmer Long Term Ecological Research (LTER) Program to determine the physical drivers of an Antarctic biological hotspot, located at Palmer Deep Canyon. As part of my dissertation, I analyzed data from autonomous underwater gliders, acoustic moorings, and the ROMS model to describe a potential mechanism driving the biological hotspot. This project was funded by NSF. My contributions to this project have been published and are available on my [publications page](https://klgallagher.github.io/publications/).
 
 #### Bioluminescence in Delaware Bay
 I participated in a research cruise and glider deployments outside of Delaware Bay examining the distributions of bioluminescent organisms on the continental shelf. This work was done in collaboration with the Office of Naval Research (ONR). 

@@ -7,22 +7,23 @@ author_profile: true
 
 ## Upcoming Talks & Conferences
 Current planned conferences for 2023 include: 
-- ASLO Aquatic Sciences Meeting (June 2023; my work to be presented by Dr. Matt Oliver)
-- US SCAR (June 2023)
 - Ecological Society of America (August 2023)
-- Southern Ocean Observing System conference (August 2023)
+- Southern Ocean Observing System Symposium (August 2023)
+- Ocean Sciences Meeting (February 2024)
 
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 
 
 ### International Conferences:
+- Association for the Sciences of Limnology and Oceanography
+  - 2023: Ecological impacts of retention in Palmer Deep Canyon (in person talk, presented by Dr. Matthew Oliver)
 - SCAR Open Science Conference 
   - 2022: Preliminary results from NSF Postdoctoral Fellowship (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (virtual poster)
 - American Geophysical Union (AGU) Fall Meeting 
   - 2022: Relationships between krill hotspots and penguin biogeography (10 minute talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (eLightning talk and virtual poster)
-- Ocean Sciences
+- Ocean Sciences Meeting
   - 2022: Retention of simulated vertical migrators in an Antarctic biological hotspot (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (in person talk, presented by Dr. John Klinck on my behalf) 
 - Ecological Society of America (ESA) Annual Meeting
@@ -31,6 +32,8 @@ My work has been presented, by myself and others, at the following scientific co
   - 2017: Results from honors thesis on internal wave dynamics (in person poster) 
 
 ### Regional Meetings, Workshops, & Symposia: 
+- US Antarctic Science Meeting
+  - 2023: Preliminary work on plastics pollution on the West Antarctic Peninsula (virtual talk) 
 - Ecology & Evolution Department Colloquia, October 2022 (hybrid talk)
 - Integrating Climate and Ecosystem Dynamics (ICED) Krill Modeling workshop, May 2021 (virtual talk)
 - University of Delaware Graduate Student Government 10th Annual Graduate Student Forum, April 2021 (virtual talk)

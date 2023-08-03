@@ -50,7 +50,7 @@ Service and Leadership
 ======
 * Instructor for High School Women in Science and Engineering (WISE) program at Stony Brook University (2022-2023 academic year)
 * Society for Women in Marine Sciences (2018 - present)
-  * Communications Lead since 2023
+  * Steering Committee Communications Lead since 2023
   * Stony Brook Chapter Member since 2022
   * Co-chair of University of Delaware Chapter from 2018 - 2020
 * College of Earth, Ocean, and Environment Empathic Peers Offering Wisdom, Encouragement, and Resources (EmPOWER)
@@ -71,6 +71,7 @@ Skills
 
 Additional Coursework
 ======
+* PhD Career Ladder Program (PCLP) (Spring 2024)
 * Foundations of Science Communication at the Alan Alda Center for Science Communication (Spring 2023)
 * Research Mentoring Workshop (Spring 2023)
 * AGU Leadership Academy and Network for Diversity and Inclusion in the Geosciences (LANDInG) (2022-2023)

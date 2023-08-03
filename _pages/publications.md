@@ -14,7 +14,7 @@ _Note: papers describing work done prior to 2022 were published under my maiden 
 
 ## Antarctica
 
-**Gallagher, K.L.,** Dinniman, M., Lynch, H.J. ([2023]([https://www.researchsquare.com/article/rs-2508180/v1](https://www.nature.com/articles/s41598-023-39105-6))). Quantifying Antarctic krill connectivity across the West Antarctic Peninsula and its role in large-scale _Pygoscelis_ penguin population dynamics. _Scientific Reports_, 13, 12072, DOI: 10.1038/s41598-023-39105-6
+**Gallagher, K.L.,** Dinniman, M., Lynch, H.J. ([2023](https://www.nature.com/articles/s41598-023-39105-6)). Quantifying Antarctic krill connectivity across the West Antarctic Peninsula and its role in large-scale _Pygoscelis_ penguin population dynamics. _Scientific Reports_, 13, 12072, DOI: 10.1038/s41598-023-39105-6
 
 **Hudson, K.**, Oliver, M. J., Kohut, J., Dinniman, M., Klinck, J., Cimino, M. A., Bernard, K., Statscewich H., Fraser W. ([2022b](https://doi.org/10.3354/meps14211)). A subsurface eddy associated with a submarine canyon increases availability and delivery of simulated Antarctic krill to penguin foraging regions. _Marine Ecology Progress Series_. DOI: 10.3354/meps14211. 
 

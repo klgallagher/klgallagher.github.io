@@ -18,7 +18,8 @@ I have also taken courses on teaching, including Scientists Teaching Science in 
 ## Mentoring
 
 ### Current Research Mentees: 
-- One Stony Brook University undergraduate (hire TBD; Spring 2023)
+- Katherine Walton, IACS Data+Computing=Discovery REU student (Summer 2023 - present)
+- Bodin Kim-Dailey, Stony Brook University undergraduate (2023 - present)
 - Tej Parekh, high school student (2022 - present)
 
 ### Previous Research Mentees:

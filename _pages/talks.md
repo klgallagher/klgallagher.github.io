@@ -6,30 +6,28 @@ author_profile: true
 ---
 
 ## Upcoming Talks & Conferences
-Current planned conferences for 2023 include: 
-- Ecological Society of America (August 2023)
-- Southern Ocean Observing System Symposium (August 2023)
+Upcoming conferences include: 
 - Ocean Sciences Meeting (February 2024)
 
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 
 
 ### International Conferences:
-- Association for the Sciences of Limnology and Oceanography
-  - 2023: Ecological impacts of retention in Palmer Deep Canyon (in person talk, presented by Dr. Matthew Oliver)
-- SCAR Open Science Conference 
-  - 2022: Preliminary results from NSF Postdoctoral Fellowship (virtual talk)
-  - 2020: Modeled retention times within Palmer Deep Canyon (virtual poster)
+
 - American Geophysical Union (AGU) Fall Meeting 
   - 2022: Relationships between krill hotspots and penguin biogeography (10 minute talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (eLightning talk and virtual poster)
+- Association for the Sciences of Limnology and Oceanography (ASLO)
+  - 2023: Ecological impacts of retention in Palmer Deep Canyon (in person talk, presented by Dr. Matthew Oliver)
+- Ecological Society of America (ESA) Annual Meeting
+  - 2023: Relationships between krill hotspots and penguin biogeography (oral presentation)
+  - 2017: Results from Research Experience for Undergraduates (REU) program focused on drivers of long-term change on Bermuda's coral reefs (in person poster)
 - Ocean Sciences Meeting
   - 2022: Retention of simulated vertical migrators in an Antarctic biological hotspot (virtual talk)
-  - 2020: Modeled retention times within Palmer Deep Canyon (in person talk, presented by Dr. John Klinck on my behalf) 
-- Ecological Society of America (ESA) Annual Meeting
-  - 2017: Results from Research Experience for Undergraduates (REU) program focused on drivers of long-term change on Bermuda's coral reefs (in person poster)
-- Benthic Ecology Meeting
-  - 2017: Results from honors thesis on internal wave dynamics (in person poster) 
+  - 2020: Modeled retention times within Palmer Deep Canyon (in person talk, presented by Dr. John Klinck on my behalf)
+- SCAR Open Science Conference 
+  - 2022: Preliminary results from NSF Postdoctoral Fellowship (virtual talk)
+  - 2020: Modeled retention times within Palmer Deep Canyon (virtual poster)
 
 ### Regional Meetings, Workshops, & Symposia: 
 - US Antarctic Science Meeting
@@ -43,8 +41,11 @@ My work has been presented, by myself and others, at the following scientific co
   - _Awarded second place prize for Best Student Presentation_
 - University of Delaware DENIN Symposium, University of Delaware, March 2019 (in person talk)
 - Polar-izing Your Science Impact, University of Delaware, January 2019 (in person poster)
+- Benthic Ecology Meeting
+  - 2017: Results from honors thesis on internal wave dynamics (in person poster)
 
 ## Invited Talks
 I have had the honor of being invited to present my work at the following locations: 
 - Institute for Advanced Computer Sciences Research Day, Stony Brook University, April 2022
 - Institute for Advanced Computer Sciences Five Year Review, Stony Brook University, September 2022
+- Rutgers University Department of Marine and Coastal Sciences Student Departmental Seminar, September 2023

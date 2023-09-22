@@ -28,6 +28,9 @@ My work has been presented, by myself and others, at the following scientific co
 - SCAR Open Science Conference 
   - 2022: Preliminary results from NSF Postdoctoral Fellowship (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (virtual poster)
+- Southern Ocean Observing System Symposium
+  - 2023: Krill connectivity on the West Antarctic Peninsula (oral presentation)
+  - 2023: Marine debris distributions and possible sources on the WAP (poster)
 
 ### Regional Meetings, Workshops, & Symposia: 
 - US Antarctic Science Meeting

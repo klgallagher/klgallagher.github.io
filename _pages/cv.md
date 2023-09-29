@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/11368596/KLG_CV_2023.pdf) for more details. 
+This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/klgallagher/klgallagher.github.io/files/12770191/KLG_CV_2023.pdf)
+ for more details. 
 
 Education
 ======
@@ -22,10 +23,15 @@ Education
 
 Research experience
 ======
-* Postdoctoral Research Fellow, Stony Brook University 
-  * February 2022 - February 2024
-  * Supervisor: Dr. Heather Lynch
-  * Funded by the NSF Office of Polar Programs Postdoctoral Research Fellowship Program 
+* Stony Brook University
+  * Senior Postdoctoral Associate
+    *  September 2023 - Present
+    *  Supervisor: Dr. Lesley Thorne
+    *  Funded by New York State Energy Research & Development Authority
+  * Postdoctoral Research Fellow
+    * February 2022 - Present
+    * Supervisor: Dr. Heather Lynch
+    * Funded by the NSF Office of Polar Programs Postdoctoral Research Fellowship Program 
 
 * Graduate Fellow/Assistant, University of Delaware
   * June 2017 - February 2022
@@ -49,6 +55,7 @@ Research experience
 Service and Leadership
 ======
 * Instructor for High School Women in Science and Engineering (WISE) program at Stony Brook University (2022-2023 academic year)
+* Instructor for Stony Brook University's PhD Career Ladder Program (PCLP) (Fall 2023)
 * Society for Women in Marine Sciences (2018 - present)
   * Steering Committee Communications Lead since 2023
   * Stony Brook Chapter Member since 2022
@@ -67,7 +74,8 @@ Skills
   * MATLAB (familiar)
 * Deploying Regional Ocean Modeling System (ROMS) simulations and analyzing results
 * Knowledgable about Slocum gliders and familiar with similar autonomous systems
-* Analyzing oceanographic data and large data sets in R 
+* Analyzing oceanographic data and large data sets in R
+* Carpentries Instructor since 2023
 
 Additional Coursework
 ======

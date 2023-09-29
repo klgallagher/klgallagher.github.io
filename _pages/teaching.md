@@ -9,8 +9,8 @@ author_profile: true
 
 ## Teaching
 
-I currently serve as an Instructor/Mentor for the Women in Science and Engineering (WISE) high school program for the 2022-23 academic year at Stony Brook University. As part of this position, I am teaching a [curricula I designed](https://github.com/klgallagher/klgallagher.github.io/files/10263390/lessonplan_KG_Fall2022_updated.docx)
- about biological and physical oceanography to high school girls and will be mentoring them through an independent research project. Over the past several years, I have also led informal workshops in data analysis using R. 
+I served as an Instructor/Mentor for the Women in Science and Engineering (WISE) high school program for the 2022-23 academic year at Stony Brook University. As part of this position, I am teaching a [curricula I designed](https://github.com/klgallagher/klgallagher.github.io/files/10263390/lessonplan_KG_Fall2022_updated.docx)
+ about biological and physical oceanography to high school girls and will be mentoring them through an independent research project. Over the past several years, I have also led informal workshops in data analysis using R and I recently became a [Carpentries](https://carpentries.org/index.html) Instructor to continue teaching R skills. 
  
 I have also taken courses on teaching, including Scientists Teaching Science in the summer of 2022. [Here is an example syllabus](https://github.com/klgallagher/klgallagher.github.io/files/10263393/syllabus_kg.docx)
  I designed as part of the course. 
@@ -33,7 +33,8 @@ I have also taken courses on teaching, including Scientists Teaching Science in 
 In my opinion, outreach is a critical (and the funnest!) part of being a scientist! I love outreach and am constantly looking out for more outreach activities to engage all groups in my science. I am always happy to come speak to classrooms, clubs, etc. Please reach out if you are interested in having me speak to your group!
 
 Outreach activities I have participated in include: 
-- [Letters to A Pre-Scientist](https://prescientist.org/) (2022-2023)
+- [Skype a Scientist](https://www.skypeascientist.com/) (2023 - present)
+- [Letters to A Pre-Scientist](https://prescientist.org/) (2022-present)
 - Public Tours of University of Delaware Hugh R Sharp Campus, Lewes, DE (2018 - 2022)
   - _I gave 50+ tours of lab spaces to public interest groups, school groups, summer camps, Boy and Girl Scout troups of various ages, interests, and sizes during my tenure at UD_
 - [University of Delaware Coast Day](https://www.deseagrant.org/coast-day), Lewes, DE (2017 - 2019) 

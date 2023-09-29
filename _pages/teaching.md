@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Classroom & Beyond"
 permalink: /teaching/
 author_profile: true
 ---

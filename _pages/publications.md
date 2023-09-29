@@ -9,7 +9,7 @@ author_profile: true
 
 _Note: papers describing work done prior to 2022 were published under my maiden name (Hudson)_
 
-## In Preparation
+## In Preparation or In Review
  **Gallagher, K.L.,**, Cimino, M.A., Dinniman, M.S., Lynch, H.J. Quantifying Potential Marine Debris Sources and Encounter Risk to Penguins on the West Antarctic Peninsula. In review at _Science of the Total Environment_. [Preprint available.](https://dx.doi.org/10.2139/ssrn.4555783)
 
 ## Antarctica

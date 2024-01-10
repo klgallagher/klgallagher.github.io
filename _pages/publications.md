@@ -10,9 +10,11 @@ author_profile: true
 _Note: papers describing work done prior to 2022 were published under my maiden name (Hudson)_
 
 ## In Preparation or In Review
- **Gallagher, K.L.,**, Cimino, M.A., Dinniman, M.S., Lynch, H.J. Quantifying Potential Marine Debris Sources and Encounter Risk to Penguins on the West Antarctic Peninsula. In review at _Science of the Total Environment_. [Preprint available.](https://dx.doi.org/10.2139/ssrn.4555783)
+ **Gallagher, K.L.,**, Cimino, M.A., Dinniman, M.S., Lynch, H.J. Quantifying Potential Marine Debris Sources and Encounter Risk to Penguins on the West Antarctic Peninsula. In review at _Environmental Pollution_. [Preprint available.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667894)
 
 ## Antarctica
+
+**Gallagher, K.L.,**, Selig, G.M, Cimino, M.A. ([2024](https://linkinghub.elsevier.com/retrieve/pii/S0025326X23013875)). Descriptions and patterns in opportunistic marine debris collected near Palmer Station, Antarctica. _Marine Pollution Bulletin_, 199, 115952, DOI: 10.1016/j.marpolbul.2023.115952
 
 **Gallagher, K.L.,** Dinniman, M., Lynch, H.J. ([2023](https://www.nature.com/articles/s41598-023-39105-6)). Quantifying Antarctic krill connectivity across the West Antarctic Peninsula and its role in large-scale _Pygoscelis_ penguin population dynamics. _Scientific Reports_, 13, 12072, DOI: 10.1038/s41598-023-39105-6
 

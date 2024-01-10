@@ -6,9 +6,14 @@ author_profile: true
 ---
 
 ## Upcoming Talks & Conferences
-Upcoming conferences include: 
-- Ocean Sciences Meeting (February 2024)
+I will be presenting my work in the following sections at OSM: 
+  - OT33A - Autonomous Ocean Platform Applications in Biological Oceanography and Wildlife Ecology I
+  - P144A - Biophysical Interations in the Southern Ocean Across Spatiotemporal Scales II
 
+Additional work will be presented by collaborators and students in: 
+  - P144A - Biophysical Interations in the Southern Ocean Across Spatiotemporal Scales I
+  - ME004 - Leveraging historical archives to reconstruct ecological processes across temporal and spatial scales
+    
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 
 

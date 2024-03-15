@@ -9,13 +9,17 @@ author_profile: true
 
 _Note: papers describing work done prior to 2022 were published under my maiden name (Hudson)_
 
-## In Preparation or In Review
- **Gallagher, K.L.,**, Cimino, M.A., Dinniman, M.S., Lynch, H.J. Quantifying Potential Marine Debris Sources and Encounter Risk to Penguins on the West Antarctic Peninsula. In review at _Environmental Pollution_. [Preprint available.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667894)
+## In Review
+None currently
 
 ## Antarctica
 
+### Marine Debris
+ **Gallagher, K.L.,**, Cimino, M.A., Dinniman, M.S., Lynch, H.J. ([2024](https://www.sciencedirect.com/science/article/pii/S0269749124004287?via%3Dihub)). Quantifying Potential Marine Debris Sources and Potential Threats to Penguins on the West Antarctic Peninsula. _Environmental Pollution_, 123714. DOI: 10.1016/j.envpol.2024.123714 
+
 **Gallagher, K.L.,**, Selig, G.M, Cimino, M.A. ([2024](https://linkinghub.elsevier.com/retrieve/pii/S0025326X23013875)). Descriptions and patterns in opportunistic marine debris collected near Palmer Station, Antarctica. _Marine Pollution Bulletin_, 199, 115952, DOI: 10.1016/j.marpolbul.2023.115952
 
+### Krill and Krill Predators
 **Gallagher, K.L.,** Dinniman, M., Lynch, H.J. ([2023](https://www.nature.com/articles/s41598-023-39105-6)). Quantifying Antarctic krill connectivity across the West Antarctic Peninsula and its role in large-scale _Pygoscelis_ penguin population dynamics. _Scientific Reports_, 13, 12072, DOI: 10.1038/s41598-023-39105-6
 
 **Hudson, K.**, Oliver, M. J., Kohut, J., Dinniman, M., Klinck, J., Cimino, M. A., Bernard, K., Statscewich H., Fraser W. ([2022b](https://doi.org/10.3354/meps14211)). A subsurface eddy associated with a submarine canyon increases availability and delivery of simulated Antarctic krill to penguin foraging regions. _Marine Ecology Progress Series_. DOI: 10.3354/meps14211. 

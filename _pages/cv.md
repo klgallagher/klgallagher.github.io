@@ -67,6 +67,14 @@ Service and Leadership
   * Co-chair from 2020 - 2021
   * Organized college-wide virtual graduate student research symposium in 2021
 
+Awards
+======
+* Stony Brook University Postdoc Spotlight - 3rd Place - November 2023
+  * [Video Available Here](https://www.youtube.com/watch?v=lyVtvvE3ZPw)
+* Letters to a Pre-Scientist Excellent Explanations Award - July 2023
+* University of Delaware College of Earth, Ocean, and Environment E. Sam Fitz Award - May 2023
+  * The E. Sam Fitz Award recognizes a well-rounded individual who shows evidence of high academic achievement, professional service, and community service from the School of Marine Science and Policy in the College of Earth, Ocean, and Environment at the University of Delaware 
+
 Skills
 ======
 * Data analysis in: 

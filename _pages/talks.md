@@ -6,13 +6,9 @@ author_profile: true
 ---
 
 ## Upcoming Talks & Conferences
-I will be presenting my work in the following sections at OSM: 
-  - OT33A - Autonomous Ocean Platform Applications in Biological Oceanography and Wildlife Ecology I
-  - P144A - Biophysical Interations in the Southern Ocean Across Spatiotemporal Scales II
-
-Additional work will be presented by collaborators and students in: 
-  - P144A - Biophysical Interations in the Southern Ocean Across Spatiotemporal Scales I
-  - ME004 - Leveraging historical archives to reconstruct ecological processes across temporal and spatial scales
+I will be presenting my work at the following upcoming conferences: 
+- State of the Science Workshop - Talk - July 15 - 19 - Stony Brook University 
+- SCAR Open Science Conference - Talk - August 19 - 23 - Pucon, Chile
     
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 
@@ -28,6 +24,7 @@ My work has been presented, by myself and others, at the following scientific co
   - 2023: Relationships between krill hotspots and penguin biogeography (oral presentation)
   - 2017: Results from Research Experience for Undergraduates (REU) program focused on drivers of long-term change on Bermuda's coral reefs (in person poster)
 - Ocean Sciences Meeting
+  - 2024: Habitat suitability modeling for penguins (poster) and habitat use in baleen whales in the New York Bight (talk)
   - 2022: Retention of simulated vertical migrators in an Antarctic biological hotspot (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (in person talk, presented by Dr. John Klinck on my behalf)
 - SCAR Open Science Conference 

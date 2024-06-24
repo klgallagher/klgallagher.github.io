@@ -10,7 +10,7 @@ author_profile: true
 _Note: papers describing work done prior to 2022 were published under my maiden name (Hudson)_
 
 ## In Review
-None currently
+**Gallagher, K.L.**, Herman, R. Walton, K., Dinniman, M.S., Lynch, H.J. Pygoscelis penguin habitat suitability defined by different oceanographic niches. In review at _Ecosphere_. 
 
 ## Antarctica
 

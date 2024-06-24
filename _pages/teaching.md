@@ -18,7 +18,7 @@ I have also taken courses on teaching, including Scientists Teaching Science in 
 ## Mentoring
 
 ### Current Research Mentees: 
-- Katherine Walton, IACS Data+Computing=Discovery REU student (Summer 2023 - present)
+- Katherine Walton, IACS Data+Computing=Discovery REU student (Summer 2023 - 2024)
 
 ### Previous Research Mentees:
 - Beatrice Wicker, Stony Brook University undergraduate (Fall 2022)
@@ -30,7 +30,7 @@ I have also taken courses on teaching, including Scientists Teaching Science in 
 - 2 first year graduate student mentees in University of Delaware EmPOWER (Empathic Peers Offering Wisdom, Encouragement, and Resources) program (2020 - 2021 academic year) 
 
 ## Outreach
-In my opinion, outreach is a critical (and the funnest!) part of being a scientist! I love outreach and am constantly looking out for more outreach activities to engage all groups in my science. I am always happy to come speak to classrooms, clubs, etc. Please reach out if you are interested in having me speak to your group!
+In my opinion, outreach is a critical (and the most fun!) part of being a scientist! I love outreach and am constantly looking out for more outreach activities to engage all groups in my science. I am always happy to come speak to classrooms, clubs, etc. Please reach out if you are interested in having me speak to your group!
 
 Outreach activities I have participated in include: 
 - [Skype a Scientist](https://www.skypeascientist.com/) (2023 - present)

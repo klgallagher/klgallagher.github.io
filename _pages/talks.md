@@ -7,8 +7,7 @@ author_profile: true
 
 ## Upcoming Talks & Conferences
 I will be presenting my work at the following upcoming conferences: 
-- State of the Science Workshop - Talk - July 15 - 19 - Stony Brook University 
-- SCAR Open Science Conference - Talk - August 19 - 23 - Pucon, Chile
+- Underwater Glider User Group Workshop - Ann Arbor
     
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 
@@ -28,6 +27,7 @@ My work has been presented, by myself and others, at the following scientific co
   - 2022: Retention of simulated vertical migrators in an Antarctic biological hotspot (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (in person talk, presented by Dr. John Klinck on my behalf)
 - SCAR Open Science Conference 
+  - 2024: Habitat suitability modeling for penguins (talk) and modeled debris distributions in the WAP (talk)
   - 2022: Preliminary results from NSF Postdoctoral Fellowship (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (virtual poster)
 - Southern Ocean Observing System Symposium
@@ -35,6 +35,7 @@ My work has been presented, by myself and others, at the following scientific co
   - 2023: Marine debris distributions and possible sources on the WAP (poster)
 
 ### Regional Meetings, Workshops, & Symposia: 
+- New York 2024 State of the Science Meeting (talk)
 - US Antarctic Science Meeting
   - 2023: Preliminary work on plastics pollution on the West Antarctic Peninsula (virtual talk) 
 - Ecology & Evolution Department Colloquia, October 2022 (hybrid talk)

@@ -18,9 +18,10 @@ I have also taken courses on teaching, including Scientists Teaching Science in 
 ## Mentoring
 
 ### Current Research Mentees: 
-- Katherine Walton, IACS Data+Computing=Discovery REU student (Summer 2023 - 2024)
+- Salome Pintado-Vertner, Women in Science and Engineering (WISE) Honors Thesis (2024 - 2025)	
 
 ### Previous Research Mentees:
+- Katherine Walton, IACS Data+Computing=Discovery REU student & UC Berkeley Honors Thesis (2023 - 2024)
 - Beatrice Wicker, Stony Brook University undergraduate (Fall 2022)
 - Bodin Kim-Dailey, Stony Brook University undergraduate (Spring 2023 - Fall 2023)
 - Tej Parekh, high school student (2022 - 2023)

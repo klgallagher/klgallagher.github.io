@@ -19,4 +19,4 @@ In SoMAS, I am working on a project funded by the New York State Research and De
 The best way to reach me is via email at Katherine.L.Hudson@stonybrook.edu. I look forward to hearing from you!
 
 ### What's Next?
-I am current on the academic job market, seeking tenure-track opportunities for a Fall 2025 start. If you know of any opportunities that may be a good fit, please reach out! 
+I am currently on the academic job market, seeking tenure-track opportunities for a Fall 2025 start. If you know of any opportunities that may be a good fit, please reach out! 

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is the "sparknotes" version of my CV. Please see my [complete CV](https://github.com/user-attachments/files/17334258/KLG_CV_2024_v2.pdf)
+This page includes the highlights from my CV. Please see my [complete CV](https://github.com/user-attachments/files/17334258/KLG_CV_2024_v2.pdf)
  for more details. 
 
 Education
@@ -25,11 +25,11 @@ Research experience
 ======
 * Stony Brook University
   * Senior Postdoctoral Associate
-    *  September 2023 - Present
+    *  September 2023 - February 2025
     *  Supervisor: Dr. Lesley Thorne
     *  Funded by New York State Energy Research & Development Authority
   * Postdoctoral Research Fellow
-    * February 2022 - Present
+    * February 2022 - February 2025
     * Supervisor: Dr. Heather Lynch
     * Funded by the NSF Office of Polar Programs Postdoctoral Research Fellowship Program 
 

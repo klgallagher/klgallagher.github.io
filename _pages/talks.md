@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ## Upcoming Talks & Conferences
-I will be presenting my work at the following upcoming conferences: 
-- Underwater Glider User Group Workshop - Ann Arbor
+None at present, but I hope to present at, or at the very least attend, the 2026 Ocean Sciences Meeting in Glasgow, Scotland! 
     
 ## Previous Scientific Conferences 
 My work has been presented, by myself and others, at the following scientific conferences. 
@@ -35,6 +34,7 @@ My work has been presented, by myself and others, at the following scientific co
   - 2023: Marine debris distributions and possible sources on the WAP (poster)
 
 ### Regional Meetings, Workshops, & Symposia: 
+- Underwater Glider User Group 2024 Workshop (talk) - _Best Early Career Oral Presentation_
 - New York 2024 State of the Science Meeting (talk)
 - US Antarctic Science Meeting
   - 2023: Preliminary work on plastics pollution on the West Antarctic Peninsula (virtual talk) 

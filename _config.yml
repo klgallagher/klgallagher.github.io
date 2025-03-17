@@ -83,11 +83,11 @@ author:
   name             : "Katherine L. Gallagher"
   avatar           : "AGU Headshots - Mark Campbell Productions-790.jpg"
   bio              : "Biological oceanographer interested in how ocean movements impact marine ecology and biogeography"
-  location         : "Stony Brook University"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=NbZz8ekAAAAJ&hl=en
-  email            : katherine.l.hudson@stonybrook.edu
+  email            : katherine.l.hudson@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

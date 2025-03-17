@@ -22,7 +22,7 @@ My work has been presented, by myself and others, at the following scientific co
   - 2023: Relationships between krill hotspots and penguin biogeography (oral presentation)
   - 2017: Results from Research Experience for Undergraduates (REU) program focused on drivers of long-term change on Bermuda's coral reefs (in person poster)
 - Ocean Sciences Meeting
-  - 2024: Habitat suitability modeling for penguins (poster) and habitat use in baleen whales in the New York Bight (talk)
+  - 2024: Habitat suitability modeling for penguins (poster) and habitat use in baleen whales in the New York Bight (in person talk)
   - 2022: Retention of simulated vertical migrators in an Antarctic biological hotspot (virtual talk)
   - 2020: Modeled retention times within Palmer Deep Canyon (in person talk, presented by Dr. John Klinck on my behalf)
 - SCAR Open Science Conference 
@@ -34,8 +34,9 @@ My work has been presented, by myself and others, at the following scientific co
   - 2023: Marine debris distributions and possible sources on the WAP (poster)
 
 ### Regional Meetings, Workshops, & Symposia: 
-- Underwater Glider User Group 2024 Workshop (talk) - _Best Early Career Oral Presentation_
-- New York 2024 State of the Science Meeting (talk)
+- Underwater Glider User Group 2024 Workshop (in person talk)
+    - _Awarded Best Early Career Oral Presentation_
+- New York 2024 State of the Science Meeting (in person talk)
 - US Antarctic Science Meeting
   - 2023: Preliminary work on plastics pollution on the West Antarctic Peninsula (virtual talk) 
 - Ecology & Evolution Department Colloquia, October 2022 (hybrid talk)

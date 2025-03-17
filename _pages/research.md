@@ -13,8 +13,8 @@ My research interests include the impacts of physical oceanography on species di
 #### Baleen Whales in the New York Bight
 In a project funded by the New York State Research and Development Authority, I am using autonomous underwater glider data and passive acoustics to describe baleen habitat use and build habitat suitability models for baleen whales in the New York Bight. 
 
-#### Marine Debris
-We used buoyant particles within ROMS to simulate marine debris transport and identify possible sources of marine debris along the WAP. This work was published in _Environmental Pollution_ and is available on my [publications page](https://klgallagher.github.io/publications/). As part of my 2024 IAATO Fellowship, I am expanding this work to include microplastics at depth, in collaboration with Dr. Clara Manno. 
+#### Marine Debris in the Antarctic
+We used buoyant particles within ROMS to simulate marine debris transport and identify possible sources of marine debris along the WAP. This work was published in _Environmental Pollution_ and is available on my [publications page](https://klgallagher.github.io/publications/). As part of my [2024 IAATO Fellowship](https://iaato.org/antarctic-fellowship-recipients-announced/), I am expanding this work to include microplastics at depth and look at overlap with Antarctic krill, in collaboration with Dr. Clara Manno at the British Antarctic Survey. 
 
 ## Previous Projects
 

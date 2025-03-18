@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-This page includes the highlights from my CV. Please see my [complete CV](https://github.com/user-attachments/files/17334258/KLG_CV_2024_v2.pdf)
+This page includes the highlights from my CV. Please see my [complete CV](https://github.com/user-attachments/files/19322061/KLG_CV_2025.pdf)
+)
  for more details. 
 
 Education
@@ -23,6 +24,9 @@ Education
 
 Research experience
 ======
+* NOAA Northeast Fisheries Science Center
+  * Habitat Analyst, contractor with IBSS Corp in support of the Ecosystem Dynamics and Assessment Branch
+    
 * Stony Brook University
   * Senior Postdoctoral Associate
     *  September 2023 - February 2025
